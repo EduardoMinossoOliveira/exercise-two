@@ -1,0 +1,42 @@
+*{
+    margin:0;
+}
+
+.Titulo{
+    background-color: coral;
+    color: cornsilk;
+    text-align: center;
+    padding: 70px;
+    font-size: larger;
+    border: 0px;
+}
+
+.data{
+    margin-left:20px;
+    font-size: larger;
+    padding:10px;
+     }
+
+.t2{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    margin-left:20px;
+    }
+
+.Lorem{
+    margin-left:20px;
+      }
+
+.audi-e-tron-gt img{
+    width: 500px;
+    border-style: outset;
+    border-color: black;
+    border-width:6px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+                   }
+.link{
+    margin-left:20px;
+
+     }
